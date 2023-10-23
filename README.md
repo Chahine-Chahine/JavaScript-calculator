@@ -1,7 +1,8 @@
 
 # 🧮 Simple Calculator - HTML, CSS, and JavaScript
 
-![Calculator Image (Placeholder)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F3471475-Calculator-GIF&psig=AOvVaw3hUUDmuSKU8f8Z2iXT9fZq&ust=1698153827940000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPDl_I-ijIIDFQAAAAAdAAAAABAE)
+![Calculator Image (Placeholder)](https://s3.eu-west-2.amazonaws.com/img.creativepool.com/files/candidate/portfolio/full/1462651.gif)
+)
 
 This is a simple calculator web application built with HTML, CSS, and JavaScript. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
@@ -23,7 +24,7 @@ To run this calculator on your local machine, follow these steps:
 Navigate to the project directory:
 
     ```sh
-   cd JavaScript-calculator
+    cd JavaScript-calculator
 Open the index.html file in your web browser to use the calculator.
 
 💡 Usage
@@ -39,13 +40,13 @@ Fork the repository.
 Create a new branch for your feature or bug fix:
 
     ```sh
-   git checkout -b feature/your-feature
+    git checkout -b feature/your-feature
 Make your changes and commit them with descriptive commit messages.
 
 Push your branch to your forked repository:
 
     ```sh
-   git push origin feature/your-feature
+    git push origin feature/your-feature
 Create a pull request on the original repository.
 
 Your changes will be reviewed, and once approved, they will be merged into the project.
