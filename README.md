@@ -23,8 +23,8 @@ To run this calculator on your local machine, follow these steps:
    git clone https://github.com/Chahine-Chahine/JavaScript-calculator.git
 Navigate to the project directory:
 
-    ```sh
-    cd JavaScript-calculator
+      cd JavaScript-calculator
+
 Open the index.html file in your web browser to use the calculator.
 
 💡 Usage
@@ -39,13 +39,11 @@ Fork the repository.
 
 Create a new branch for your feature or bug fix:
 
-    ```sh
     git checkout -b feature/your-feature
 Make your changes and commit them with descriptive commit messages.
 
 Push your branch to your forked repository:
 
-    ```sh
     git push origin feature/your-feature
 Create a pull request on the original repository.
 
